@@ -1,0 +1,99 @@
+/* form {
+    background-color: gray;
+}
+
+input {
+    background-color: yellowgreen;
+}
+
+.hover-red:hover {
+    background-color: red;
+}
+
+.input-red:focus {
+    background-color: yellow;
+}
+
+input[:required] {
+    c
+}
+
+label[class="hover"] {
+    background-color: yellow;
+} */
+/* label {
+    color: yellow;
+}
+
+label {
+    color: red;
+} */
+
+body {
+    background: url(https://previews.123rf.com/images/vska/vska1410/vska141000061/32550620-technology-innovation-background-idea-of-global-business-solution.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+form{
+    border: 5px solid red;
+    background-color: #627169;
+    border-radius: 3px;
+    padding: 10px 20px;
+    width: 300px;
+    margin-left: 333px;
+}
+
+label {
+    color: #fff;
+}
+
+input {
+    margin-bottom: 10px;
+    display: block;
+    margin-top: 10px;
+}
+
+button[type=submit] {
+    background-color: #4CAF50;
+}
+
+button[type=submit]:hover {
+    background-color: #29d432;
+    color: white;
+
+}
+
+button {
+    padding: 10px;
+    border-radius: 4px;
+    border: none;
+    cursor: pointer;
+
+}
+
+input {
+    border: none;
+    border: 3px solid;
+    border-radius: 4px;
+    display: inline-block;
+
+}
+
+
+
+input:focus {
+    outline-color: green;
+
+    border-color: #4CAF50;
+}
+
+
+
+button[type=reset]:hover {
+    background-color: rgb(230, 8, 174);
+    color: #fff;
+    
+}
+
+
